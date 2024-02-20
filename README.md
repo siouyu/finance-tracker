@@ -2,7 +2,7 @@
 
 [Finance Tracker](https://finance-tracker-theta.vercel.app/) is an online budgeting application that ensures privacy through user authentication and route protection.
 
-You can swiftly log in to the app using a Google account without any additional registration. After logging in, you can customize your own income and expense categories based on your spending habits, adding or removing categories such as food, clothing, housing, and transportation. 
+You can swiftly log in to the app using a Google account without any additional registration. After logging in, you can customize income and expense categories based on your spending habits, adding or removing categories such as food, clothing, housing, and transportation. 
 
 Each expense is visually represented in a circular chart, providing a clear overview of the percentage of total expenditure for each category. This aids in analyzing spending patterns for effective financial management.
 
