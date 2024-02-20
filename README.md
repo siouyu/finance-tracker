@@ -8,10 +8,7 @@ Each expense is visually represented in a circular chart, providing a clear over
 
 Well, importantly, it serves as a reminder to cultivate a regular habit of recording expenditures😉
 
-
-https://github.com/siouyu/finance-tracker/assets/46859822/7f8fb058-3972-4b45-a7e9-ee349b0b3cf9
-
-
+https://github.com/siouyu/finance-tracker/assets/46859822/832c66c3-22a6-4cee-86f7-39f6ec7c0a33
 
 # What skill have I learned?
 
