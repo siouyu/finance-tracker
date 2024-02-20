@@ -8,9 +8,18 @@ Each expense is visually represented in a circular chart, providing a clear over
 
 Well, importantly, it serves as a reminder to cultivate a regular habit of recording expenditures😉
 
+
+https://github.com/siouyu/finance-tracker/assets/46859822/7f8fb058-3972-4b45-a7e9-ee349b0b3cf9
+
+
+
 # What skill have I learned?
 
 Finance Tracker app is a React project built with Next.js 13,  includes these features :
 - security using user authentication, protected routes
 - data storage using Firebase Firestore 
 - styling the website using Tailwind CSS.
+
+# Architecture Picture
+
+![截圖 2024-02-20 下午2 57 52](https://github.com/siouyu/finance-tracker/assets/46859822/5cff77ac-57ba-4c3c-9226-bf2103c38e04)
