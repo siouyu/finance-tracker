@@ -2,17 +2,11 @@
 
 Finance Tracker is an online budgeting application that ensures privacy through user authentication and route protection.
 
-You can swiftly log in to the app using a Google account, eliminating the need for additional registration.
+You can swiftly log in to the app using a Google account without any additional registration. After logging in, you can customize your own income and expense categories based on their spending habits, adding or removing categories such as food, clothing, housing, and transportation. 
 
-After logging in, you can customize your own income and expense categories based on their spending habits, adding or removing categories such as food, clothing, housing, and transportation. 
+Each expense is visually represented in a circular chart, providing a clear overview of the percentage of total expenditure for each category. This aids in analyzing spending patterns for effective financial management. Detailed timestamps for each income and expense entry allow you to track spending history. 
 
-Also, you can add detailed spending items and amounts within each expense category.
-
-Each expense is visually represented in a circular chart, providing a clear overview of the percentage of total expenditure for each category. This aids in analyzing spending patterns for effective financial management.
-
-Detailed timestamps for each income and expense entry allow users to track their spending history. 
-
-Importantly, it serves as a reminder to cultivate a regular habit of recording expenditures😉
+Well, importantly, it serves as a reminder to cultivate a regular habit of recording expenditures😉
 
 # What skill have I learned?
 
