@@ -1,36 +1,22 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# What is the project about?
 
-## Getting Started
+Finance Tracker is an online budgeting application that ensures privacy through user authentication and route protection.
 
-First, run the development server:
+You can swiftly log in to the app using a Google account, eliminating the need for additional registration.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+After logging in, you can customize your own income and expense categories based on their spending habits, adding or removing categories such as food, clothing, housing, and transportation. 
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Also, you can add detailed spending items and amounts within each expense category.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Each expense is visually represented in a circular chart, providing a clear overview of the percentage of total expenditure for each category. This aids in analyzing spending patterns for effective financial management.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Detailed timestamps for each income and expense entry allow users to track their spending history. 
 
-## Learn More
+Importantly, it serves as a reminder to cultivate a regular habit of recording expenditures😉
 
-To learn more about Next.js, take a look at the following resources:
+# What skill have I learned?
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Finance Tracker app is a React project built with Next.js 13,  includes these features :
+- security using user authentication, protected routes
+- data storage using Firebase Firestore 
+- styling the website using Tailwind CSS.
